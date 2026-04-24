@@ -1,29 +1,142 @@
-<h1 align="center">Hi 👋, I'm Mann Tomar</h1>
-<h3 align="center">A passionate Enginner from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mann-tomar&label=Profile%20views&color=0e75b6&style=flat" alt="mann-tomar" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mann%20Tomar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Passionate%20Engineer%20from%20India%20🇮🇳&descAlignY=55&descSize=18" width="100%"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mann-tomar" alt="mann-tomar" /></a> </p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Mann+Tomar+👋;A+Passionate+Engineer+from+India;Currently+learning+C+🚀;Always+exploring+new+things+⚡" alt="Typing SVG" />
+</a>
 
-- 🌱 I’m currently learning **C**
+<br/>
 
-- 👨‍💻 All of my projects are available at [https://github.com/MANN-TOMAR/](https://github.com/MANN-TOMAR/)
+<img src="https://komarev.com/ghpvc/?username=MANN-TOMAR&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/MANN-TOMAR?label=Followers&style=for-the-badge&color=0e75b6" alt="Followers"/>
 
-- 💬 Ask me about **HTML,CSS,C**
+</div>
 
-- 📫 How to reach me **manntomar46@gmail.com**
+---
 
-- 📄 Know about my experiences [https://github.com/MANN-TOMAR/FIRST_SEMESTER_PROJECTS/](https://github.com/MANN-TOMAR/FIRST_SEMESTER_PROJECTS/)
+## 🧑‍💻 About Me
 
-- ⚡ Fun fact **I am a cool person**
+```javascript
+const mann = {
+  name:        "Mann Tomar",
+  location:    "Mohali, Chandigarh 🇮🇳",
+  learning:    ["C", "Python", "Web Dev"],
+  ask_me:      ["HTML", "CSS", "C"],
+  contact:     "manntomar46@gmail.com",
+  fun_fact:    "I am a cool person ⚡",
+  projects:    "https://github.com/MANN-TOMAR/"
+};
+```
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mann-tomar-054b63321?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mann-tomar-054b63321?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
-<a href="https://instagram.com/mann_tomar_jaat_boy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mann_tomar_jaat_boy" height="30" width="40" /></a>
-</p>
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mann-tomar&" alt="mann-tomar" /></p>
+- 🌱 I'm currently learning **C**
+- 👨‍💻 All of my projects are available at [github.com/MANN-TOMAR](https://github.com/MANN-TOMAR/)
+- 💬 Ask me about **HTML, CSS, C**
+- 📫 How to reach me: **manntomar46@gmail.com**
+- 📁 Know about my experiences: [First Semester Projects](https://github.com/MANN-TOMAR/FIRST_SEMESTER_PROJECTS/)
+- ⚡ Fun fact: **I am a cool person**
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Languages & Tools
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,html,css,python,git,github,vscode&theme=dark&perline=7" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MANN-TOMAR&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="GitHub Stats"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MANN-TOMAR&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170" alt="Top Languages"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MANN-TOMAR&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MANN-TOMAR&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Activity Graph"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MANN-TOMAR&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" alt="Trophies"/>
+</div>
+
+---
+
+## 🤝 Connect with Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/mann-tomar-054b63321" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/mann_tomar_jaat_boy" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:manntomar46@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/MANN-TOMAR" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MANN-TOMAR/MANN-TOMAR/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MANN-TOMAR/MANN-TOMAR/output/github-snake.svg"/>
+    <img alt="github-snake" src="https://raw.githubusercontent.com/MANN-TOMAR/MANN-TOMAR/output/github-snake.svg"/>
+  </picture>
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Random Dev Quote
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
