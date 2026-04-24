@@ -2,9 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mann%20Tomar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Passionate%20Engineer%20from%20India%20🇮🇳&descAlignY=55&descSize=18" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Mann+Tomar+👋;A+Passionate+Engineer+from+India;Currently+learning+C+🚀;Always+exploring+new+things+⚡" alt="Typing SVG" />
-</a>
+
 
 <br/>
 
@@ -89,11 +87,7 @@ const mann = {
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MANN-TOMAR&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" alt="Trophies"/>
-</div>
 
 ---
 
@@ -119,15 +113,7 @@ const mann = {
 
 ---
 
-## 🐍 Contribution Snake
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MANN-TOMAR/MANN-TOMAR/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MANN-TOMAR/MANN-TOMAR/output/github-snake.svg"/>
-    <img alt="github-snake" src="https://raw.githubusercontent.com/MANN-TOMAR/MANN-TOMAR/output/github-snake.svg"/>
-  </picture>
-</div>
 
 ---
 
